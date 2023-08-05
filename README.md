@@ -18,8 +18,8 @@ This project brings a adorable color pallete and a QR Code that takes you to ano
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub Source Code](https://github.com/gabriel-sotoS/qr-code-component)
+- Live Site URL: [GitHub Pages Deploy](https://gabriel-sotos.github.io/qr-code-component/)
 
 ## My process
 The first thing to think of was: **Mobile Devices**. In this project wasn't necessary use more than one CSS file and neither CSS Flexbox or CSS Grid. Following the design file and a little bit of my wishes, this project was made in 1 hour and 9 minutes.

@@ -12,7 +12,8 @@ body {
 
 main.component {
     margin: auto;
-    margin-top: 15px;
+    margin-top: 70px;
+    vertical-align: center;
     height: 580px;
     min-width: 300px;
     max-width: 360px;
@@ -69,9 +70,10 @@ a:hover {
 }
 
 div.link {
-    margin-top: 20px;
+    margin-top: 10px;
 }
 
 div.link, p a {
-    font-size: 1em;
+    font-size: 15px;
+    text-align: center;
 }
