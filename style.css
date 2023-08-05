@@ -1,0 +1,77 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+
+main.component {
+    margin: auto;
+    margin-top: 15px;
+    height: 580px;
+    min-width: 300px;
+    max-width: 360px;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 20px;
+    box-shadow: black 0px -0.5px 2px;
+
+}
+
+div.qr-code {
+    margin: auto;
+    padding-top: 15px;
+    width: 335px;
+}
+
+div.qr-code > img {
+    padding: 5px 5px 5px 5px;
+    height: 340px;
+    width: 330px;
+    border-radius: 20px;
+}
+
+p {
+    font-family: 'Outfit';
+    font-size: 20px;
+    text-align: center;
+    padding: 0px 20px 20px 20px;
+    color: hsl(220, 15%, 55%);
+}
+
+p.bold {
+    font-size: 1.6em;
+    font-weight: 700;
+    padding: 20px;
+    line-height: 1.2em;
+    color: hsl(218, 44%, 22%);
+}
+
+span.footer {
+    font-family: 'Outfit';
+    font-size: 17px;
+    text-align: center;
+    margin-right: 15px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: rgb(16, 179, 170);
+}
+
+div.link {
+    margin-top: 20px;
+}
+
+div.link, p a {
+    font-size: 1em;
+}
