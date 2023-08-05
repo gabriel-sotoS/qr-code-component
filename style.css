@@ -12,8 +12,8 @@ body {
 
 main.component {
     margin: auto;
-    margin-top: 70px;
-    vertical-align: center;
+    margin-top: 10px;
+    vertical-align: middle;
     height: 580px;
     min-width: 300px;
     max-width: 360px;
