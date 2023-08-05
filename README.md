@@ -40,4 +40,4 @@ I made a course with Gustavo Guanabara, a brazilian teacher, a course of HTML5 a
 In future projects, i want to work in CSS Flex and Grid, CSS Position and train more design concepts. And i want to learn JavaScript, React and another technologies to work with Frontend Development.
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/gabrielsoto-s)
+- Frontend Mentor - [@GabrielSoto](https://www.frontendmentor.io/profile/GabrielSoto)
